@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\bin\Debug\net9.0\Dynamics.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\bin\Debug\net9.0\Dynamics.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\bin\Debug\net9.0\Dynamics.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\refint\Dynamics.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\Dynamics.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Robot-Factory\Dynamics\obj\Debug\net9.0\ref\Dynamics.dll

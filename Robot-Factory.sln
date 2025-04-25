@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics", "Dynamics\Dynamics.csproj", "{9CC4961F-BF89-4A1F-871E-74B6A8FE5710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics.Tests", "Dynamics.Tests\Dynamics.Tests.csproj", "{14240268-EDB2-4FE2-8614-44D6BAF87477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics.Main", "Dynamics.Main\Dynamics.Main.csproj", "{E7F7BE24-48FE-4DB3-8425-540CAC4D10EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC4961F-BF89-4A1F-871E-74B6A8FE5710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC4961F-BF89-4A1F-871E-74B6A8FE5710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC4961F-BF89-4A1F-871E-74B6A8FE5710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC4961F-BF89-4A1F-871E-74B6A8FE5710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14240268-EDB2-4FE2-8614-44D6BAF87477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14240268-EDB2-4FE2-8614-44D6BAF87477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14240268-EDB2-4FE2-8614-44D6BAF87477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14240268-EDB2-4FE2-8614-44D6BAF87477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F7BE24-48FE-4DB3-8425-540CAC4D10EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F7BE24-48FE-4DB3-8425-540CAC4D10EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F7BE24-48FE-4DB3-8425-540CAC4D10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F7BE24-48FE-4DB3-8425-540CAC4D10EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
